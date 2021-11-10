@@ -1,0 +1,2 @@
+# -Deliverymeds-by-DroneTech
+The goal of Deliverymeds is to provide a drone delivery alternative to Wilmont’s existing consumers within an established budget of $750,000 and a timeline of January 5th - November 30th. The general scope of work for DroneTech in this project falls under providing the drones, creating a proper interface, and ensuring safe and successful delivery of Wilmont’s products. 
